@@ -1,7 +1,6 @@
 source 'http://rubygems.org'
 
-gem 'bundler', '1.0.0.rc.6'
-gem 'rails', '3.0.0.rc2'
+gem 'rails', '>= 3.0.0.rc'
 gem 'sqlite3-ruby', '1.2.5', :require => 'sqlite3'
 gem 'gravatar_image_tag'
 gem 'will_paginate', '>= 3.0.pre'
